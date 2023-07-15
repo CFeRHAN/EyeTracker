@@ -29,15 +29,15 @@ In the video window, click and drag to select the region of interest (ROI) frame
 The eye tracking process will start, and you will see the thresholded image and the ROI frame with eye detection and tracking.
 Press the "Esc" key to exit the application.
 
-Requirements:
+##Requirements:
 Python
 OpenCV
 
-File Structure:
+## File Structure:
 eye_tracker.py: The main Python script that runs the eye tracking application.
 eye_recording.flv: Sample video file for eye tracking.
 README.md: This file providing information about the project.
 Graphics/: Folder containing graphical assets used in the project.
 
-Acknowledgments
+## Acknowledgments
 The eye tracking application is based on computer vision techniques and image processing algorithms implemented using the OpenCV library.
